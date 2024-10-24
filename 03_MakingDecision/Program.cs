@@ -10,7 +10,7 @@ namespace _03_MakingDecision
 
             //Console.Write("Lütfen şifreyi giriniz: ");
             //string password;
-            //password= Console.ReadLine();
+            //password = Console.ReadLine();
             //if (password == "abcd")
             //{
             //    Console.WriteLine("Şifre Doğru");
@@ -27,7 +27,7 @@ namespace _03_MakingDecision
             //Console.Write("Ülkeyi Giriniz: ");
             //country = Console.ReadLine();
 
-            //if(capital=="düzce" & country == "türkiye")
+            //if (capital == "düzce" & country == "türkiye")
             //{
             //    Console.Write("veriler doğrulandı");
             //}
@@ -84,7 +84,7 @@ namespace _03_MakingDecision
             //Console.Write("Lütfen şehir girişi yapınız: ");
             //city = Console.ReadLine();
 
-            //if(city=="İstanbul" | city=="Muğla" | city=="Düzce" | city == "trabzon")
+            //if (city == "İstanbul" | city == "Muğla" | city == "Düzce" | city == "trabzon")
             //{
             //    Console.WriteLine("şehir mevcut");
             //}
@@ -124,7 +124,7 @@ namespace _03_MakingDecision
             //Console.Write("1.Sayının 2.sayıya bölümünden kalan: " + result);
 
             //Console.Write("Lütfen sayıyı giriniz: ");
-            //int number=int.Parse(Console.ReadLine());
+            //int number = int.Parse(Console.ReadLine());
 
             //if (number % 2 == 0)
             //{

@@ -18,7 +18,7 @@ namespace _04_Loops
             //    Console.WriteLine(i);
             //}
 
-            //for(int i = 0; i <= 25; i += 4)
+            //for (int i = 0; i <= 25; i += 4)
             //{
             //    Console.WriteLine(i);
             //}
